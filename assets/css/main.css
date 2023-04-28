@@ -3,6 +3,7 @@
 nav{
   position: fixed;
   top: 0;
+  left: 0;
   text-align: center;
   width: 100%;
   padding: 0.55em 0em;
@@ -37,7 +38,7 @@ body{
   padding-top: calc(1em + 0.55em + 0.55em);
   display:grid; 
   grid-template-columns: 1fr 100% 1fr;
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', 'Georgia', 'Garamond', serif;
 }
 
 @media only screen and (min-width: 60em){
