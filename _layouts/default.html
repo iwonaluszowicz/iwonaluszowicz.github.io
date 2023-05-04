@@ -13,7 +13,7 @@
   </head>
   <body>
     <nav>
-      {% assign pages = site.pages | where: 'include_in_nav', true | order_by: 'nav_order' %}
+      {% assign pages = site.pages | where: 'include_in_nav', true | sort: 'nav_order' %}
       <!-- Comments are to remove whitespace
       {% for p in pages %}
         --><a href="{{ p.url }}"
