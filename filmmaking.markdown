@@ -5,6 +5,8 @@ nav_order: 3
 permalink: /filmmaking/
 ---
 
-[Watch _Penguin Trouble_](https://youtu.be/0Nw7qS2vHu4)
+## Penguin Trouble
+{% include youtube_player.html id="0Nw7qS2vHu4" %}
 
-[Watch _Five Things_](https://youtu.be/vhp4F8RuXqc)
+## Five Things
+{% include youtube_player.html id="vhp4F8RuXqc" %}
