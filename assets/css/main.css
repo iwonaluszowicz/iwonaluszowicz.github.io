@@ -9,6 +9,7 @@ nav{
   padding: 0.55em 0em;
   background-color: white;
   border-bottom: 1px solid #aaa;
+  z-index: 1000;
 }
 
 nav a, nav a:active, nav a:visited{
