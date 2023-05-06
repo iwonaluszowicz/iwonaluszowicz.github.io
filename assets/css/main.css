@@ -67,6 +67,10 @@ body > main a:hover
   text-decoration: underline;
 }
 
+main img{
+  max-width: 100%;
+}
+
 /* Responsive video containers */
 
 .embed-container {
