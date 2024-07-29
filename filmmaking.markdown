@@ -14,17 +14,17 @@ I’ve linked two of my videos below. They’re very much student projects, but 
 
 
 ## Penguin Pandemonium
+{% include youtube_player.html id="0Nw7qS2vHu4" %}
 This was the first film I made. Writing and shooting it during lockdown, I knew I needed something that could be shot entirely within my house, with a maximum of one (human) actor. 
 
 I think both the penguin and my housemate Kevin did a fab job.
 
 Two things I learnt by making this film: 1) in-built camera mics don’t make for nice sound quality; and 2) getting wide-shot coverage of the entire scene, in addition to any close-ups, will make the edit a whole lot easier.
 
-{% include youtube_player.html id="0Nw7qS2vHu4" %}
 
 ## Five Things
+{% include youtube_player.html id="vhp4F8RuXqc" %}
 I shot this for a homework task on my NFTS filmmaking certificate. We were doing a module on editing, and our brief was to create a story by juxtaposing no more than five images or shots. 
 
 When I showed this to my sister, she said it was ‘horrible’. I don’t entirely disagree.
 
-{% include youtube_player.html id="vhp4F8RuXqc" %}
