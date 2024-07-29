@@ -8,7 +8,7 @@ My filmmaking journey started during lockdown in 2021. I took an online course w
 
 After that, I completed a certificate in filmmaking at the NFTS and a practical filmmaking traineeship with Four Corners Studio in East London. 
 
-In 2023, I produced and directed my first ‘proper’ short film, Sugar Push. It follows a young woman attending a swing dance social. We’re currently still in post-production, but you can check out the film’s instagram @sugarpushshortfilm {https://www.instagram.com/sugarpushshortfilm/}
+In 2023, I produced and directed my first ‘proper’ short film, Sugar Push. It follows a young woman attending a swing dance social. We’re currently still in post-production, but you can check out the film’s [instagram @sugarpushshortfilm] (https://www.instagram.com/sugarpushshortfilm/)
 
 I’ve linked two of my videos below. They’re very much student projects, but they make me laugh and might make some of you laugh too…
 
