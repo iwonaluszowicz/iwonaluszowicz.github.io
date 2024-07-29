@@ -6,7 +6,7 @@ permalink: /filmmaking/
 ---
 My filmmaking journey started during lockdown in 2021. I took an online course with the adult education college City Lit and made a little film about a stuffed penguin and its human housemate (see below).
 
-In 2022, I completed a certificate in filmmaking at the NFTS and a practical filmmaking traineeship with Four Corners Studio in East London. (Thank you to BFI + Tower Hamlets Council for funding.)
+In 2022, I completed a certificate in filmmaking at the NFTS and a practical filmmaking traineeship with Four Corners Studio in East London. (Thank you to BFI and Tower Hamlets Council for funding.)
 
 In 2023, I produced and directed my first ‘proper’ short film, Sugar Push. We’re currently still in post-production, but you can check out the film’s [instagram @sugarpushshortfilm](https://www.instagram.com/sugarpushshortfilm/)
 
