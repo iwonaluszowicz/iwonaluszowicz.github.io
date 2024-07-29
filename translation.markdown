@@ -11,7 +11,6 @@ Some of my favourite past and present projects:
 
  - _Zen and the Path to Happiness_  
   I’m currently (nearly finished!) translating the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.  
-  (seeking publication/contemplating self-publishing)
 
  - [_Foreign Affairs Translates_: 2018-19 theatre translator mentorship](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
   I translated the play _Mensch Meier_ by [Franz Xaver Kroetz](https://en.wikipedia.org/wiki/Franz_Xaver_Kroetz).
