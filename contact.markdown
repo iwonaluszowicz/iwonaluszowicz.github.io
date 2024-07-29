@@ -5,4 +5,4 @@ nav_order: 4
 permalink: /contact/
 ---
 
-[My Instagram page, _coal.fox_](https://www.instagram.com/coal.fox/)
+[For any questions or collaborations, please reach out on my instagram page, _coal.fox_](https://www.instagram.com/coal.fox/)
