@@ -26,5 +26,3 @@ Two things I learnt by making this film: 1) in-built camera mics don’t make fo
 {% include youtube_player.html id="vhp4F8RuXqc" %}
 I shot this for a homework task on my NFTS filmmaking certificate. We were doing a module on editing, and our brief was to create a story by juxtaposing no more than five images or shots. 
 
-When I showed this to my sister, she said it was ‘horrible’. I don’t entirely disagree.
-
