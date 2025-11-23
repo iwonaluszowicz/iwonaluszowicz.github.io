@@ -8,7 +8,7 @@ permalink: /filmmaking/
 I write a sporadic blog, [_London Culture Mole_](https://londonculturemole.wordpress.com/), featuring some of London’s lesser-known gems.
 
 I also dabble in filmmaking. My short film _Sugar Push_ is currently in post-production.  
-  Feel free to check out the film’s instagram [@sugarpushshortfilm](https://www.instagram.com/sugarpushshortfilm/)
+  Feel free to check out the film’s instagram: [@sugarpushshortfilm](https://www.instagram.com/sugarpushshortfilm/)
 
 And below is a little film from a few years ago. It's very much a student project, but it made me laugh and might make some of you laugh too…
 
