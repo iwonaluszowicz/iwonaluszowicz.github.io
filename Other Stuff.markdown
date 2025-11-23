@@ -1,5 +1,5 @@
 ---
-title: Filmmaking
+title: Other Stuff
 include_in_nav: true
 nav_order: 3
 permalink: /filmmaking/
