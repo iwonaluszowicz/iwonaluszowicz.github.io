@@ -10,8 +10,8 @@ I translate from German to English. My work includes exhibitions, biographies, t
 Some of my favourite past projects:
 
  - _Zazen, and the Path to Happiness_  
-  I translated the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.
-It's available as an ebook here: [https://books2read.com/ZazenAndThePathToHappiness](https://books2read.com/ZazenAndThePathToHappiness)    
+  I translated the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.  
+  It's available as an ebook here: [https://books2read.com/ZazenAndThePathToHappiness](https://books2read.com/ZazenAndThePathToHappiness)    
 
  - [_Foreign Affairs Translates_: 2018-19 theatre translator mentorship](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
   I translated the play _Mensch Meier_ by [Franz Xaver Kroetz](https://en.wikipedia.org/wiki/Franz_Xaver_Kroetz).
