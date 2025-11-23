@@ -4,25 +4,15 @@ include_in_nav: true
 nav_order: 3
 permalink: /filmmaking/
 ---
-My filmmaking journey started during lockdown in 2021. I took an online course with the adult education college City Lit and made a little film about a stuffed penguin and its human housemate (see below).
 
-In 2022, I completed a certificate in filmmaking at the NFTS and a practical filmmaking traineeship with Four Corners Studio in East London. (Thank you to BFI and Tower Hamlets Council for funding.)
+I write a sporadic blog, [_London Culture Mole_](https://londonculturemole.wordpress.com/), featuring some of London’s lesser-known gems.
 
-In 2023, I produced and directed my first ‘proper’ short film, Sugar Push. We’re currently still in post-production, but you can check out the film’s [instagram @sugarpushshortfilm](https://www.instagram.com/sugarpushshortfilm/)
+I also dabble in filmmaking. My short film _Sugar Push_ is currently in post-production.  
+  Feel free to check out the film’s instagram [@sugarpushshortfilm](https://www.instagram.com/sugarpushshortfilm/)
 
-I’ve linked two of my videos below. They’re very much student projects, but they make me laugh and might make some of you laugh too…
+And below is a little film from a few years ago. It's very much a student project, but it made me laugh and might make some of you laugh too…
 
 
 ## Penguin Pandemonium
 {% include youtube_player.html id="0Nw7qS2vHu4" %}
-This was the first film I made. Writing and shooting it during lockdown, I knew I needed something that could be shot entirely within my house, with a maximum of one (human) actor. 
-
-I think both the penguin and my housemate Kevin did a fab job.
-
-Two things I learnt by making this film: 1) in-built camera mics don’t make for nice sound quality; and 2) getting wide-shot coverage of the entire scene, in addition to any close-ups, will make the edit a whole lot easier.
-
-
-## Five Things
-{% include youtube_player.html id="vhp4F8RuXqc" %}
-I shot this for a homework task on my NFTS filmmaking certificate. We were doing a module on editing, and our brief was to create a story by juxtaposing no more than five images or shots. 
 
