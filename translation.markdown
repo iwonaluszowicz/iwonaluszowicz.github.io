@@ -15,7 +15,7 @@ Some favourite past projects:
  - [_Foreign Affairs Theatre Translator Mentorship 2018/19_](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
   I translated the play _Mensch Meier_ by Franz Xaver Kroetz.
 
-  - [_Being Conchita: We are Unstoppable_](https://www.amazon.co.uk/Being-Conchita-Unstoppable-7-May-2015-Hardcover/dp/B011T77IDO)  
+  - [_Being Conchita: We are Unstoppable_](https://www.amazon.co.uk/Being-Conchita-We-are-Unstoppable/dp/178418649X)  
   I translated the autobiography of 2014 Eurovision winner Conchita Wurst.
 
 Some organisations I’ve translated for:
