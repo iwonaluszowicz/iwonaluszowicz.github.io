@@ -18,7 +18,7 @@ Some favourite past projects:
   - [_Being Conchita: We are Unstoppable_](https://www.amazon.co.uk/Being-Conchita-We-are-Unstoppable/dp/178418649X)  
   I translated the autobiography of 2014 Eurovision winner Conchita Wurst.
 
-Some organisations I’ve translated for:
+Some organisations who hired me:
   - [Oberwelt Art Gallery, Stuttgart](http://www.oberwelt.de/)
   - [Marburg Museum of Art](https://www.uni-marburg.de/de/museum)
   - [Tegel Projekt GmbH](https://tegelprojekt.de/)
