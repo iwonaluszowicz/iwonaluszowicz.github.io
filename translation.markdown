@@ -5,12 +5,13 @@ nav_order: 2
 permalink: /translation/
 ---
 
-I translate from German to English. My work includes exhibitions, biographies, travel writing, websites and book synopses. 
+I translate from German to English. My work includes exhibitions, biographies, travel writing and websites. 
  
-Some of my favourite past and present projects:
+Some of my favourite past projects:
 
- - _Zen and the Path to Happiness_  
-  I’m currently (nearly finished!) translating the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.  
+ - _Zazen, and the Path to Happiness_  
+  I translated the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.
+It's available as an ebook here: [https://books2read.com/ZazenAndThePathToHappiness](https://books2read.com/ZazenAndThePathToHappiness)    
 
  - [_Foreign Affairs Translates_: 2018-19 theatre translator mentorship](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
   I translated the play _Mensch Meier_ by [Franz Xaver Kroetz](https://en.wikipedia.org/wiki/Franz_Xaver_Kroetz).
@@ -22,7 +23,6 @@ Some people I’ve translated for:
   - [Oberwelt Art Gallery, Stuttgart](http://www.oberwelt.de/)
   - [Marburg Museum of Art](https://www.uni-marburg.de/de/museum)
   - [Tegel Projekt GmbH](https://tegelprojekt.de/)
-  - [Ute Woracek](https://uteworacek.de/)
 
 
 Some praise people gave me:
