@@ -5,7 +5,7 @@ nav_order: 2
 permalink: /translation/
 ---
 
-I translate from German to English. My work includes exhibitions, biographies and websites. 
+I translate from German to English. My work includes exhibitions, autobiographies and websites. 
  
 Some favourite past projects:
 
