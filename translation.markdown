@@ -5,21 +5,20 @@ nav_order: 2
 permalink: /translation/
 ---
 
-I translate from German to English. My work includes exhibitions, biographies, travel writing and websites. 
+I translate from German to English. My work includes exhibitions, biographies and websites. 
  
-Some of my favourite past projects:
+Some favourite past projects:
 
- - _Zazen, and the Path to Happiness_  
-  I translated the [autobiography of Muho](https://www.amazon.de/Zazen-oder-Weg-zum-Gl%C3%BCck/dp/3499622033), former abbot of the Zen monastery Antaiji.  
-  It's available as an ebook here: [https://books2read.com/ZazenAndThePathToHappiness](https://books2read.com/ZazenAndThePathToHappiness)    
+ - [_Zazen, and the Path to Happiness_](https://books2read.com/ZazenAndThePathToHappiness)  
+  I translated the autobiography of Muhō Nölke, former abbot of the Zen monastery Antaiji.      
 
- - [_Foreign Affairs Translates_: 2018-19 theatre translator mentorship](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
-  I translated the play _Mensch Meier_ by [Franz Xaver Kroetz](https://en.wikipedia.org/wiki/Franz_Xaver_Kroetz).
+ - [_Foreign Affairs Theatre Translator Mentorship 2018/19_](https://www.foreignaffairs.org.uk/theatre-translator-mentorship/)  
+  I translated the play _Mensch Meier_ by Franz Xaver Kroetz.
 
   - [_Being Conchita: We are Unstoppable_](https://www.amazon.co.uk/Being-Conchita-Unstoppable-7-May-2015-Hardcover/dp/B011T77IDO)  
   I translated the autobiography of 2014 Eurovision winner Conchita Wurst.
 
-Some people I’ve translated for:
+Some organisations I’ve translated for:
   - [Oberwelt Art Gallery, Stuttgart](http://www.oberwelt.de/)
   - [Marburg Museum of Art](https://www.uni-marburg.de/de/museum)
   - [Tegel Projekt GmbH](https://tegelprojekt.de/)
