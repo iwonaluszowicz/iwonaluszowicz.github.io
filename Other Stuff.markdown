@@ -5,7 +5,7 @@ nav_order: 3
 permalink: /filmmaking/
 ---
 
-I write a sporadic blog, [_London Culture Mole_](https://londonculturemole.wordpress.com/), featuring some of London’s lesser-known gems.
+I write a sporadic blog, [_London Culture Mole_](https://londonculturemole.wordpress.com/), featuring some of London’s lesser-known highlights.
 
 I also dabble in filmmaking. My short film _Sugar Push_ is currently in post-production.  
   Feel free to check out its [instagram page, _@sugarpushshortfilm_](https://www.instagram.com/sugarpushshortfilm/)
