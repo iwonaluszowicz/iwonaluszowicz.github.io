@@ -10,9 +10,9 @@ I write a sporadic blog, [_London Culture Mole_](https://londonculturemole.wordp
 I also dabble in filmmaking. My short film _Sugar Push_ is currently in post-production.  
   Feel free to check out its [instagram page, _@sugarpushshortfilm_](https://www.instagram.com/sugarpushshortfilm/)
 
-And below is a little video from a few years ago. It's very much a student project, but it made me laugh and might make some of you laugh too…
+And below is a little video from a few years ago. It's very much a student project, but hopefully might make some people laugh…
 
 
-## Penguin Pandemonium
+## Penguin Trouble
 {% include youtube_player.html id="0Nw7qS2vHu4" %}
 
